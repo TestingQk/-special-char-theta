@@ -1,2 +1,3 @@
-https://github.com/TestingQk/-special-char-theta/blob/171257f2a41d66c967ea37d37c5ba5d6ea4ff954/sub%…
 
+[QK](PRD1.md)
+[Devre](/sub@folder1/Naveen.md)
